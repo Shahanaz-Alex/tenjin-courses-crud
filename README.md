@@ -1,6 +1,10 @@
-# tenjin
-
-Prototype for Tenjin
+# tenjin: Second Prototype for Tenjin
+## INSTRUCTIONS
+1. ensure your xampp is up and all your servers are running
+2. go to phpmyadmin (its @ localhost/phpmyadmin)
+3. create a database called: tenjin
+4. download this repo and stick it in your xampp/htdocs folder
+5. run the app
 
 ## Getting Started
 
